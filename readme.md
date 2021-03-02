@@ -4,7 +4,7 @@
 ## Approach Explanation
 ### *Initial Modelling*
 Following some reading about constraint satisfaction problems (CSP) I decided to use a common but effective algorithm to achieve a solution. The first step was to generalise the problem : 
-* $$X$$, the set of variables
+* $X$, the set of variables
 * $D$, the set of domains (one for each variable)
 * $C$, the set of constraints that specify allowable combinations of values
 
