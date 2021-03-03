@@ -15,7 +15,7 @@ I concluded that `X` would be each sqaure in the sudoku board, The sudoku consis
 
 We can clearly see all the constraints have a similar format, consisting of `9` variables. There are a total of `27` constraints, all variables in the constraint must take a different value. A sudoku will have a valid solution if we are able to return a set of values which satisfies the following, for all the constraints:
 
-* ![eq1](https://user-images.githubusercontent.com/60605841/109685927-abe36d80-7b79-11eb-85f0-0f4ca70473ba.jpg)
+* >![eq1](https://user-images.githubusercontent.com/60605841/109685927-abe36d80-7b79-11eb-85f0-0f4ca70473ba.jpg)
 
 
 An example of each type of constraint we mentioned above are:
